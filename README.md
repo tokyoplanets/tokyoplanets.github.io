@@ -1,3 +1,7 @@
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zCsymzzMpTU
+" target="_blank"><img src="http://img.youtube.com/vi/zCsymzzMpTU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 # Meetings
 ---
 
@@ -9,8 +13,8 @@
 - Irene Bonati (ELSI/Tokyo Tech): Direct imaging of magma oceans in nearby young stellar associations
 - Ron Ballouz (JAXA): Latest ideas and models for the extra-solar asteroid ‘Oumuamua
 - Makiko Ban (NAOJ): Review of free-floating planet research and future perspective
+
 ---
 
 ## Next meeting
 ### TBD
----
