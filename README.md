@@ -1,7 +1,7 @@
 # Meetings
 
-## First meeting
-### May 7, 2018, at [ELSI](http://elsi.jp/)
+## May 7, 2018
+### [ELSI](http://elsi.jp/)
 ### Speakers
 - Javier Peralta (JAXA): Discussing Venusian atmospheres
 - John Livingston (Todai): Discovering new planets with K2 and TESS
