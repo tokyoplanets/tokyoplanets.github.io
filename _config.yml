@@ -1,3 +1,4 @@
 title: Tokyo Area Planetary Science
 description: ...or anything under the deuterium-burning mass limit
-theme: jekyll-theme-cayman
+logo: planets.png
+theme: jekyll-theme-minimal
