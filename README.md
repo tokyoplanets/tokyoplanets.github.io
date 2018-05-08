@@ -19,3 +19,7 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zCsymzzMpTU
 " target="_blank"><img src="http://img.youtube.com/vi/zCsymzzMpTU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+---
+
+![](http://logonoid.com/images/university-of-tokyo-logo.png){:width="300px"} ![](http://www.elsi.jp/ja/about/fig/VI_DATA_ELSI-1.jpg){:width="300px"}
