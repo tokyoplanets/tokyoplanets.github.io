@@ -2,8 +2,8 @@
 ![](http://www.coi.titech.ac.jp/img/banner_TOKYOTECH.png){:width="300px"} 
 ![](http://www.elsi.jp/ja/about/fig/VI_DATA_ELSI-1.jpg){:width="300px"} 
 ![](https://www.cfa.harvard.edu/~chull/Logos/NAOJ_logo.jpg){:width="300px"}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jaxa_logo.svg/1200px-Jaxa_logo.svg.png){:width="150px"} 
-![](https://www.ir.isas.jaxa.jp/AKARI/image/isas_logo.png){:width="150px"} 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jaxa_logo.svg/1200px-Jaxa_logo.svg.png){:width="300px"} 
+![](https://www.ir.isas.jaxa.jp/AKARI/image/isas_logo.png){:width="300px"} 
 
 ---
 
