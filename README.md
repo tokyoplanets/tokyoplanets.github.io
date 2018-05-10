@@ -7,6 +7,13 @@
 
 ---
 
+---
+
+# Click [here](http://eepurl.com/duhHmX) to join our mailing list!
+
+---
+
+
 # Meetings
 ---
 
