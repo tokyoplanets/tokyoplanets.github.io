@@ -1,3 +1,9 @@
+## July 18, 2018, [ELSI](http://elsi.jp/)
+### Speakers
+- Jerome de Leon (Todai)
+- Alessandro Trani (Todai)
+- and more TBD!
+
 ## May 7, 2018, [ELSI](http://elsi.jp/)
 ### Speakers
 - Javier Peralta (JAXA): Discussing Venusian atmospheres
