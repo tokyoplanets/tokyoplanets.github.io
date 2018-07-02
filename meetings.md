@@ -2,6 +2,7 @@
 ### Speakers
 - Jerome de Leon (Todai)
 - Alessandro Trani (Todai)
+- Woo Man Yin (ELSI): The curious case of Mars' formation
 - and more TBD!
 
 ## May 7, 2018, [ELSI](http://elsi.jp/)
