@@ -1,4 +1,4 @@
-## July 18, 2018, [ELSI](http://elsi.jp/)
+## TBD (most likely September, 2018), [ELSI](http://elsi.jp/)
 ### Speakers
 - Jerome de Leon (Todai)
 - Alessandro Trani (Todai)
