@@ -3,6 +3,7 @@
 - Jerome de Leon (Todai)
 - Alessandro Trani (Todai)
 - Ramses Ramirez (ELSI)
+- Yeon Joo Lee (Todai): "Radiative energy balance of the Venusian atmosphere - simulation and observations"
 - and more TBD!
 
 ## May 7, 2018, [ELSI](http://elsi.jp/)
