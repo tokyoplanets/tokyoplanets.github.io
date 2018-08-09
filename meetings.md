@@ -1,8 +1,8 @@
-## TBD (most likely September, 2018), [ELSI](http://elsi.jp/)
+## September 7, 2018), [ELSI](http://elsi.jp/)
 ### Speakers
 - Jerome de Leon (Todai)
 - Alessandro Trani (Todai)
-- Woo Man Yin (ELSI): The curious case of Mars' formation
+- Ramses Ramirez (ELSI)
 - and more TBD!
 
 ## May 7, 2018, [ELSI](http://elsi.jp/)
