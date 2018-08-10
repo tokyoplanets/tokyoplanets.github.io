@@ -2,8 +2,9 @@
 ### Speakers
 - Jerome de Leon (Todai)
 - Alessandro Trani (Todai)
-- Ramses Ramirez (ELSI)
+- Ramses Ramirez (ELSI): "The habitable zone as a link between solar system and exoplanetary habitability"
 - Yeon Joo Lee (Todai): "Radiative energy balance of the Venusian atmosphere - simulation and observations"
+- Sarah Crites
 - and more TBD!
 
 ## May 7, 2018, [ELSI](http://elsi.jp/)
