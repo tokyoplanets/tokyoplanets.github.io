@@ -1,4 +1,4 @@
-## September 7, 2018, [ELSI](http://elsi.jp/), 14:00 - 17:00
+## September 7, 2018, 14:00 - 17:00, [ELSI](http://elsi.jp/)
 ### Speakers
 - Keynote talk by Michael J. Way (NASA Goddard): "Modeling terrestrial planetary atmospheres with ROCKE-3D"
 - Sarah Crites (JAXA): “Volatile delivery to the inner solar system: What can the poles of the Moon and Mercury tell us?”
