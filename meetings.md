@@ -1,11 +1,10 @@
 ## September 7, 2018, [ELSI](http://elsi.jp/)
 ### Speakers
-- Jerome de Leon (Todai)
-- Alessandro Trani (Todai)
-- Ramses Ramirez (ELSI): "The habitable zone as a link between solar system and exoplanetary habitability"
+- Keynote talk by Michael J. Way (NASA Goddard): "Modeling terrestrial planetary atmospheres with ROCKE-3D"
+- Sarah Crites (JAXA): “Volatile delivery to the inner solar system: What can the poles of the Moon and Mercury tell us?”
+- Ramses Ramirez (ELSI/Tokyo Tech): "The habitable zone as a link between solar system and exoplanetary habitability"
+- Alessandro Trani (Todai): TBA
 - Yeon Joo Lee (Todai): "Radiative energy balance of the Venusian atmosphere - simulation and observations"
-- Sarah Crites
-- and more TBD!
 
 ## May 7, 2018, [ELSI](http://elsi.jp/)
 ### Speakers
