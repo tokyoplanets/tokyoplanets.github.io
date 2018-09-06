@@ -4,7 +4,7 @@
 - Sarah Crites (JAXA): “Volatile delivery to the inner solar system: What can the poles of the Moon and Mercury tell us?”
 - Ramses Ramirez (ELSI/Tokyo Tech): "The habitable zone as a link between solar system and exoplanetary habitability"
 - Alessandro Trani (Todai): "TSUNAMI: a fast and accurate fewbody code for planetary dynamics with tidal interactions"
-- Yeon Joo Lee (Todai): "Radiative energy balance of the Venusian atmosphere - simulation and observations"
+- Yeon Joo Lee (Todai): "The Mask of Venus"
 
 ## May 7, 2018, [ELSI](http://elsi.jp/)
 ### Speakers
