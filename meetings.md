@@ -1,3 +1,7 @@
+## December 6, 2018, 14:00 - 17:00, [ISAS](http://www.isas.jaxa.jp/en/)
+### Speakers
+- TBD
+
 ## September 7, 2018, 14:00 - 17:00, [ELSI](http://elsi.jp/)
 ### Speakers
 - Keynote talk by Michael J. Way (NASA Goddard): "Modeling terrestrial planetary atmospheres with ROCKE-3D"
