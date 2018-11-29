@@ -1,10 +1,10 @@
 ## December 6, 2018, 14:00 - 17:00, [ISAS](http://www.isas.jaxa.jp/en/)
 ### Speakers
-- Stefania Soldini (ISAS/JAXA): "Hayabusa2 Solar Conjunction Mission Operation"
 - Go Murakami (ISAS/JAXA): "BepiColombo: a joint ESA/JAXA mission to Mercury that launched in October this year"
-- Sebastian Danielache (ELSI/Sophia University): "Chemistry of planetary atmospheres; current developments of tools for improving chemical networks"
-- Elizabeth Tasker (ISAS/JAXA): "Introducing Earth-Like: an interactive website for exploring Earth-like planet diversity"
 - Haruhisa Tabata (ELSI/Tokyo Tech): "Experimental study of iron photo-oxidation: Effect of UV spectra on surface water pH in early Mars"
+- Sebastian Danielache (ELSI/Sophia University): "Chemistry of planetary atmospheres; current developments of tools for improving chemical networks"
+- Stefania Soldini (ISAS/JAXA): "Hayabusa2 Solar Conjunction Mission Operation"
+- Elizabeth Tasker (ISAS/JAXA): "Introducing Earth-Like: an interactive website for exploring Earth-like planet diversity"
 
 ## September 7, 2018, 14:00 - 17:00, [ELSI](http://elsi.jp/)
 ### Speakers
