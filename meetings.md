@@ -1,3 +1,7 @@
+## March 8, 2019, 14:00 - 17:00, [NAOJ](https://www.nao.ac.jp/en/)
+### Speakers
+- TBD
+
 ## December 6, 2018, 14:00 - 17:00, [ISAS](http://www.isas.jaxa.jp/en/)
 ### Speakers
 - Go Murakami (ISAS/JAXA): "BepiColombo: a joint ESA/JAXA mission to Mercury that launched in October this year"
