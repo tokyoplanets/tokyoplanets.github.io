@@ -4,7 +4,7 @@ We are a group of Tokyo-area astronomers, planetary scientists, and astrobiologi
 ---
 ## [Click here to join our mailing list](http://goo.gl/tLDPFM)
 ---
-## [Past Meetings](meetings)
+## [Past meetings](meetings)
 ---
 <img src="images/meetings/taps2/1.jpg" alt="drawing" width="200"/> <img src="images/meetings/taps2/2.jpg" alt="drawing" width="200"/> <img src="images/meetings/taps2/3.jpg" alt="drawing" width="200"/> <img src="images/meetings/taps2/4.jpg" alt="drawing" width="200"/>
 
