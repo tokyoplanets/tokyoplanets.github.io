@@ -91,7 +91,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: 'images/ssc2018-04b2_Med.jpg'
+  background-image: url("../images/ssc2018-04b2_Med.jpg") no-repeat;
 
   @include large {
     padding: 5rem 6rem;
