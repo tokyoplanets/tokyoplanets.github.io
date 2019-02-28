@@ -1,6 +1,10 @@
-## March 8, 2019, 14:00 - 17:00, [NAOJ](https://www.nao.ac.jp/en/)
+## March 8, 2019, 13:30 - 17:30, [NAOJ](https://www.nao.ac.jp/en/)
 ### Speakers
-- TBD
+- Keynote talk by Mikhail Zolotov (Arizona State University): “Ceres: A mysterious dwarf planet”
+- Jason Woo (ELSI, Tokyo Institute of Technology): “Mars in the aftermath of a colossal impact”
+- Pushkar Kopparla (University of Tokyo): “Known and unknown patterns in Venus UV albedo from Akatsuki”
+- Yi Yang (Astrobiology Center): "Planets and Disks in Binary Systems"
+- Ngan Kim Nguyen (ISAS, JAXA, Hokkaido University): “Type 1 migration in gravitationally unstable discs”
 
 ## December 6, 2018, 14:00 - 17:00, [ISAS](http://www.isas.jaxa.jp/en/)
 ### Speakers
