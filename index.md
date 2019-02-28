@@ -22,3 +22,7 @@ We are a group of Tokyo-area astronomers, planetary scientists, and astrobiologi
 <img src="images/meetings/taps2/1.jpg" alt="drawing" width="200"/> <img src="images/meetings/taps2/2.jpg" alt="drawing" width="200"/> <img src="images/meetings/taps2/3.jpg" alt="drawing" width="200"/> <img src="images/meetings/taps2/4.jpg" alt="drawing" width="200"/>
 
 ![](images/logos.png)
+
+---
+
+Harassment of any kind will not be tolerated. All event attendees and staff have the right to a space that is free of all forms of discrimination, harassment, bullying, and/or retaliation. Participants who are requested to stop any harassing behavior are expected to comply immediately. If you wish to report harassment, suspect that someone else is being harassed, or have any other concerns, please contact a member of the organizing committee as soon as possible.
