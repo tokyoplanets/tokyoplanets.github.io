@@ -1,7 +1,7 @@
+<!---
 # 4th Tokyo Area Planetary Science (TAPS) meeting to be held at the National Astronomical Observatory of Japan (NAOJ) in Mitaka on March 8, 2019, 13:30-17:30
 ## [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSfrMwzkpNRLFv6PzLwp7jJSLlFsYxHj3m50llFXlJO9CyRn4Q/viewform?usp=sf_link)
-
----
+--->
 
 We are a group of Tokyo-area astronomers, planetary scientists, and astrobiologists who gather semi-regularly to discuss a wide variety of planet-related topics. We welcome anyone working on planets, both in and out of the solar system, to join us!
 
