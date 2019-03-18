@@ -11,13 +11,11 @@ We are a group of Tokyo-area astronomers, planetary scientists, and astrobiologi
 
 ---
 
-## [Click here to join our mailing list](http://goo.gl/tLDPFM)
+## [Calendar](https://calendar.google.com/calendar/b/0?cid=YTMycXJ2M3RucGZrNnJpYWloMDRiMmltdDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ---
 
-## Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?src=ho9irn4miqsuuhfchc1bac80os%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+## [Join our mailing list](http://goo.gl/tLDPFM)
 
 ---
 
