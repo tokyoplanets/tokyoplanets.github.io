@@ -6,6 +6,8 @@
 - Ramon Brasser (ELSI/Tokyo Tech): ”Late accretion and the origin of life on Earth”
 - Jerome de Leon (University of Tokyo): ”Search for young planets observed by TESS”
 
+---
+
 ## March 8, 2019, 13:30 - 17:30, [NAOJ](https://www.nao.ac.jp/en/)
 ### Speakers
 - Keynote talk by Mikhail Zolotov (Arizona State University): “Ceres: A mysterious dwarf planet”
@@ -13,6 +15,8 @@
 - Pushkar Kopparla (University of Tokyo): “Known and unknown patterns in Venus UV albedo from Akatsuki”
 - Yi Yang (Astrobiology Center): "Planets and Disks in Binary Systems"
 - Ngan Kim Nguyen (ISAS, JAXA, Hokkaido University): “Type 1 migration in gravitationally unstable discs”
+
+---
 
 ## December 6, 2018, 14:00 - 17:00, [ISAS](http://www.isas.jaxa.jp/en/)
 ### Speakers
@@ -22,6 +26,8 @@
 - Stefania Soldini (ISAS/JAXA): "Hayabusa2 Solar Conjunction Mission Operation"
 - Elizabeth Tasker (ISAS/JAXA): "Introducing Earth-Like: an interactive website for exploring Earth-like planet diversity"
 
+---
+
 ## September 7, 2018, 14:00 - 17:00, [ELSI](http://elsi.jp/)
 ### Speakers
 - Keynote talk by Michael J. Way (NASA Goddard): "Modeling terrestrial planetary atmospheres with ROCKE-3D"
@@ -29,6 +35,8 @@
 - Ramses Ramirez (ELSI/Tokyo Tech): "The habitable zone as a link between solar system and exoplanetary habitability"
 - Alessandro Trani (Todai): "TSUNAMI: a fast and accurate fewbody code for planetary dynamics with tidal interactions"
 - Yeon Joo Lee (Todai): "The Mask of Venus"
+
+---
 
 ## May 7, 2018, [ELSI](http://elsi.jp/)
 ### Speakers
