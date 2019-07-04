@@ -1,5 +1,7 @@
+<!-- 
 # 5th Tokyo Area Planetary Science (TAPS) meeting to be held at the University of Tokyo (Hongo campus) on June 10, 2019, 13:30-17:30
 ## [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLScjemZOjmU12mihiD1vVZuxLSYLiIjCNtSHtnVod3EQoL1r9Q/viewform)
+-->
 
 ---
 
