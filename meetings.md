@@ -1,9 +1,14 @@
+## September 30, 2019, 13:30 - 17:30, [ELSI](http://elsi.jp/)
+### Speakers
+- TBD
+
+---
+
 ## June 10, 2019, 13:30 - 17:30, [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
 ### Speakers
 - Keynote talk by David Brain (University of Colorado Boulder): “Do habitable worlds require magnetic fields?”
 - Carol Kwok (University of Tokyo): ”Planetesimal dynamics in the presence of a massive companion”
 - Nicola Baresi (ISAS/JAXA): ”The shifting sands of Phobos: How the eccentricity of the Martian moon refreshes its surface”
-- Ramon Brasser (ELSI/Tokyo Tech): ”Late accretion and the origin of life on Earth”
 - Jerome de Leon (University of Tokyo): ”Search for young planets observed by TESS”
 
 ---
