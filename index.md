@@ -21,7 +21,7 @@ We are a group of Tokyo-area astronomers, planetary scientists, and astrobiologi
 
 ---
 
-## [Meeting details](meetings)
+## [Meetings](meetings)
 
 ---
 
