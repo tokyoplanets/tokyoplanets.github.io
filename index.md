@@ -29,7 +29,7 @@ We are a group of Tokyo-area astronomers, planetary scientists, and astrobiologi
 
 ---
 
-## [Join our mailing list](http://goo.gl/tLDPFM)
+## [Mailing list](http://goo.gl/tLDPFM)
 
 ---
 
