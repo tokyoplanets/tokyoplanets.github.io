@@ -4,6 +4,12 @@
 -->
 # 6th Tokyo Area Planetary Science (TAPS) meeting to be held at [ELSI](http://elsi.jp/) on September 30, 2019, 13:30 - 17:30
 ## [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSfRwIPFsXRHZEcWsZihy_jKtjF3v96vvAnC0Q1Zay3cLO0u1Q/viewform)
+### Speakers
+- Guest talk by Erik Parker (NASA Goddard): “Oligopeptide formation under mild aqueous conditions”
+- Keynote talk by Christine Houser (ELSI/Tokyo Tech): “Water’s journey through rocky planets”
+- Masashi Omiya (Astrobiology Center): “IRD-SSP: Search for planets like Earth around late-M dwarfs”
+- Aaron C. Bell (Ridge-i Inc./University of Tokyo): “EXO-ATMOS: A scalable grid of hypothetical planetary atmospheres”
+- James O’Donoghue (JAXA): “Saturn’s Rings and Jupiter’s Great Red Spot: an animated discussion”
 
 ---
 
