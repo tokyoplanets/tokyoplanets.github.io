@@ -2,7 +2,7 @@
 # 5th Tokyo Area Planetary Science (TAPS) meeting to be held at the University of Tokyo (Hongo campus) on June 10, 2019, 13:30-17:30
 ## [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSfRwIPFsXRHZEcWsZihy_jKtjF3v96vvAnC0Q1Zay3cLO0u1Q/viewform)
 -->
-# 6th Tokyo Area Planetary Science (TAPS) meeting to be held at [ELSI](http://elsi.jp/) on September 30, 2019, 13:30 - 17:30
+<!-- # 6th Tokyo Area Planetary Science (TAPS) meeting to be held at [ELSI](http://elsi.jp/) on September 30, 2019, 13:30 - 17:30
 ## [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSfRwIPFsXRHZEcWsZihy_jKtjF3v96vvAnC0Q1Zay3cLO0u1Q/viewform)
 ### Speakers
 - Guest talk by Erik Parker (NASA Goddard): “Oligopeptide formation under mild aqueous conditions”
@@ -10,7 +10,12 @@
 - Masashi Omiya (Astrobiology Center): “IRD-SSP: Search for planets like Earth around late-M dwarfs”
 - Aaron C. Bell (Ridge-i Inc./University of Tokyo): “EXO-ATMOS: A scalable grid of hypothetical planetary atmospheres”
 - James O’Donoghue (JAXA): “Saturn’s Rings and Jupiter’s Great Red Spot: an animated discussion”
-
+-->
+# 7th Tokyo Area Planetary Science (TAPS) meeting to be held at [ISAS](http://www.isas.jaxa.jp/) on January 10, 2020, 14:00 - 17:00
+- Keynote talk by Giovanna Tinetti (UCL): “ARIEL and TWINKLE: Exploring the atmospheres of exoplanets”
+- Hajime Kawahara (U. Tokyo):“REACH: Exoplanet characterisation with extremely high-contrast spectroscopy with Subaru”
+- Go Murakami (JAXA):“WSO-UV/UVSPEX: Characterising terrestrial planets in the UV”
+- More TBA
 ---
 
 We are a group of Tokyo-area astronomers, planetary scientists, and astrobiologists who gather semi-regularly to discuss a wide variety of planet-related topics. We welcome anyone working on planets, both in and out of the solar system, to join us!
