@@ -13,9 +13,10 @@
 -->
 # 7th Tokyo Area Planetary Science (TAPS) meeting to be held at [ISAS](http://www.isas.jaxa.jp/) on January 10, 2020, 14:00 - 17:00
 - Keynote talk by Giovanna Tinetti (UCL): “ARIEL and TWINKLE: Exploring the atmospheres of exoplanets”
-- Hajime Kawahara (U. Tokyo):“REACH: Exoplanet characterisation with extremely high-contrast spectroscopy with Subaru”
-- Go Murakami (JAXA):“WSO-UV/UVSPEX: Characterising terrestrial planets in the UV”
+- Hajime Kawahara (U. Tokyo): “REACH: Exoplanet characterisation with extremely high-contrast spectroscopy with Subaru”
+- Go Murakami (JAXA): “WSO-UV/UVSPEX: Characterising terrestrial planets in the UV”
 - More TBA
+
 ---
 
 We are a group of Tokyo-area astronomers, planetary scientists, and astrobiologists who gather semi-regularly to discuss a wide variety of planet-related topics. We welcome anyone working on planets, both in and out of the solar system, to join us!
