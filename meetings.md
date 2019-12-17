@@ -1,3 +1,12 @@
+## January 10, 2020, 14:00 - 17:00, [ISAS](http://www.isas.jaxa.jp/en/)
+### Speakers
+- Keynote talk by Giovanna Tinetti (UCL): “ARIEL and TWINKLE: Exploring the atmospheres of exoplanets”
+- Hajime Kawahara (U. Tokyo): “REACH: Exoplanet characterisation with extremely high-contrast spectroscopy with Subaru”
+- Go Murakami (JAXA): “WSO-UV/UVSPEX: Characterising terrestrial planets in the UV”
+- More TBD
+
+---
+
 ## September 30, 2019, 13:30 - 17:30, [ELSI](http://elsi.jp/)
 ### Speakers
 - Guest talk by Erik Parker (NASA Goddard): “Oligopeptide formation under mild aqueous conditions”
