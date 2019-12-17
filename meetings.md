@@ -3,7 +3,7 @@
 - Keynote talk by Giovanna Tinetti (UCL): “ARIEL and TWINKLE: Exploring the atmospheres of exoplanets”
 - Hajime Kawahara (U. Tokyo): “REACH: Exoplanet characterisation with extremely high-contrast spectroscopy with Subaru”
 - Go Murakami (JAXA): “WSO-UV/UVSPEX: Characterising terrestrial planets in the UV”
-- More TBD
+- More TBA
 
 ---
 
