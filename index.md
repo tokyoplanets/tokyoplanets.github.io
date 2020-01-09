@@ -12,10 +12,12 @@
 - James O’Donoghue (JAXA): “Saturn’s Rings and Jupiter’s Great Red Spot: an animated discussion”
 -->
 # 7th Tokyo Area Planetary Science (TAPS) meeting to be held at [ISAS](http://www.isas.jaxa.jp/) on January 10, 2020, 14:00 - 17:00
+## [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSd1GOfYgWtrIg7rxi6DsnBocXb7eMO_oNYA6Ce-czqEArZ3Cg/viewform)
+### Speakers
 - Keynote talk by Giovanna Tinetti (UCL): “ARIEL and TWINKLE: Exploring the atmospheres of exoplanets”
+- Masashi Omiya (Astrobiology Center): “IRD-SSP: InfraRed Doppler with Subaru for discovering Earth-sized planets around late-M dwarfs”
 - Hajime Kawahara (U. Tokyo): “REACH: Exoplanet characterisation with extremely high-contrast spectroscopy with Subaru”
-- Go Murakami (JAXA): “WSO-UV/UVSPEX: Characterising terrestrial planets in the UV”
-- More TBA
+- Go Murakami (ISAS, JAXA): “WSO-UV/UVSPEX: Characterising terrestrial planets in the UV”
 
 ---
 
