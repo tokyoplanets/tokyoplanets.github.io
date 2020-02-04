@@ -2,7 +2,9 @@
 # 5th Tokyo Area Planetary Science (TAPS) meeting to be held at the University of Tokyo (Hongo campus) on June 10, 2019, 13:30-17:30
 ## [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSfRwIPFsXRHZEcWsZihy_jKtjF3v96vvAnC0Q1Zay3cLO0u1Q/viewform)
 -->
-<!-- # 6th Tokyo Area Planetary Science (TAPS) meeting to be held at [ELSI](http://elsi.jp/) on September 30, 2019, 13:30 - 17:30
+
+<!-- 
+# 6th Tokyo Area Planetary Science (TAPS) meeting to be held at [ELSI](http://elsi.jp/) on September 30, 2019, 13:30 - 17:30
 ## [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSfRwIPFsXRHZEcWsZihy_jKtjF3v96vvAnC0Q1Zay3cLO0u1Q/viewform)
 ### Speakers
 - Guest talk by Erik Parker (NASA Goddard): “Oligopeptide formation under mild aqueous conditions”
@@ -11,6 +13,8 @@
 - Aaron C. Bell (Ridge-i Inc./University of Tokyo): “EXO-ATMOS: A scalable grid of hypothetical planetary atmospheres”
 - James O’Donoghue (JAXA): “Saturn’s Rings and Jupiter’s Great Red Spot: an animated discussion”
 -->
+
+<!-- 
 # 7th Tokyo Area Planetary Science (TAPS) meeting to be held at [ISAS](http://www.isas.jaxa.jp/) on January 10, 2020, 14:00 - 17:00
 ## [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSd1GOfYgWtrIg7rxi6DsnBocXb7eMO_oNYA6Ce-czqEArZ3Cg/viewform)
 ### Speakers
@@ -18,6 +22,7 @@
 - Masashi Omiya (Astrobiology Center): “IRD-SSP: InfraRed Doppler with Subaru for discovering Earth-sized planets around late-M dwarfs”
 - Hajime Kawahara (U. Tokyo): “REACH: Exoplanet characterisation with extremely high-contrast spectroscopy with Subaru”
 - Go Murakami (ISAS, JAXA): “WSO-UV/UVSPEX: Characterising terrestrial planets in the UV”
+-->
 
 ---
 
